@@ -1,3 +1,0 @@
-class GuildOperations implements BaseUrls{
-
-}
